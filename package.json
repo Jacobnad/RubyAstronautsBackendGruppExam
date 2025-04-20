@@ -20,6 +20,10 @@
   },
   "homepage": "https://github.com/Jacobnad/RubyAstronautsBackendGruppExam#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "nedb-promises": "^6.2.3"
   }
 }
